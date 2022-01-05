@@ -1,0 +1,17 @@
+{
+  "name": "Facebook events page to ical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^39.2.0",
+    "ics": "^2.35.0",
+    "node-fetch": "^2.6.5",
+    "puppeteer": "^13.0.1"
+  }
+}
